@@ -1,1 +1,3 @@
 # t-profit-analyzer
+Esse é um aplicativo para desktop, onde você vai conseguir calcular todas as hunts que você fez no jogo Tibia automaticamente. 
+### ▶️Projeto em andamento...
